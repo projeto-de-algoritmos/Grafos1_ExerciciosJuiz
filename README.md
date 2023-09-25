@@ -1,4 +1,4 @@
-Exercicios Juiz Online
+## Exercicios Juiz Online
 
 Temas:
  - Grafos1
@@ -13,9 +13,9 @@ Exercicios resolvidos de juizes onlines Beecrowd e LeetCode, sobre o tema grafos
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
-![Conexao Redundante 2 - 685](../685/685-Submited.png)
-![Posicao Sapo apos T segundos - 1377](../1377/1377-Submited.png)
-![Credo para Tudo! - 2959](../2959/2959-Submited.png)
+![Conexao Redundante 2 - 685](685/685-Submited.png)
+![Posicao Sapo apos T segundos - 1377](1377/1377-Submited.png)
+![Credo para Tudo! - 2959](2959/2959-Submited.png)
 
 ## Instalação 
 **Linguagem**: C e Python<br>
