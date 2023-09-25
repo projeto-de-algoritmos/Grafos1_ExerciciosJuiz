@@ -1,43 +1,29 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+Exercicios Juiz Online
 
 Temas:
  - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0142421  |  Artur Vinicius Dias Nunes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Exercicios resolvidos de juizes onlines Beecrowd e LeetCode, sobre o tema grafos 1.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Conexao Redundante 2 - 685](../685/685-Submited.png)
+![Posicao Sapo apos T segundos - 1377](../1377/1377-Submited.png)
+![Credo para Tudo! - 2959](../2959/2959-Submited.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C e Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para executar os programas, basta baixar os códigos e submetê-los em um compilador online ou em um editor de código-fonte.
 
-## Outros 
+## Vídeos
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
